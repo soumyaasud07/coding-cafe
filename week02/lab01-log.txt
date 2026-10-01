@@ -1,0 +1,191 @@
+    1  python3 --version
+    2  pwd
+    3  ls
+    4  ls -Force
+    5  --help
+    6  ls
+    7  ls -Force
+    8  ls
+    9  ls -Force
+   10  ls -force
+   11  pwd
+   12  ls
+   13  pwd
+   14  ls
+   15  ls -l
+   16  history
+   17  ls coding-cafe/week2
+   18  pwd
+   19  ls
+   20  ls -a
+   21  ls -l
+   22  new folder
+   23  mkdir
+   24  mkdir coding cafe
+   25  mkdir coding-cafe
+   26  ls
+   27  coding-cafe mkdir week1 week2
+   28  mkdir -p coding-cafe/{week1, week2}
+   29  ls
+   30  pwd
+   31  ls
+   32  ls coding-cafe/week02
+   33  ls
+   34  ls -l
+   35  rmdir cafe
+   36  ls -l
+   37  rmdir coding
+   38  ls -l
+   39  mv "week2}
+   40  " week2
+   41  mv "week2}" week2
+   42  ls 
+   43  ls -l
+   44  mkdir -p coding-cafe/week1
+   45  ls -l
+   46  lss
+   47  ls
+   48  mkdir -p coding-cafe/week1
+   49  ls
+   50  pwd
+   51  mkdir coding-cafe/week1
+   52  ls
+   53  ls -l
+   54  pwd
+   55  realpath filename.txt
+   56  realpath week1.txt
+   57  find . name "week1"
+   58  find . -name "week1"
+   59  ls coding-cafe
+   60  rmdir {week1
+   61  ls coding-cafe
+   62  rmdir {week1,
+   63  rmdir "coding-cafe/{week1,"
+   64  ls
+   65  ls coding-cafe
+   66  rmdir week2
+   67  ls
+   68  ls coding cafe
+   69  ls coding-cafe
+   70  mkdir coding-cafe/week2
+   71  ls
+   72  ls coding-cafe
+   73  ls
+   74  touch coding-cafe/READ.md
+   75  ls
+   76  ls coding-cafe
+   77  touch week2/notes.md
+   78  cd coding-cafe
+   79  touch week2/notes.md
+   80  ls
+   81  ls week2
+   82  pdw
+   83  pwd
+   84  cd
+   85  pwd
+   86  cd coding-cafe
+   87  cp README.md README-backup.md
+   88  explorer. exe .
+   89  nano week2/notes.md
+   90  ls
+   91  cp README.md README-backup.md
+   92  mv READ.txt README.txt
+   93  mv READ.md README.md
+   94  cp README.md README-backup.md
+   95  ls
+   96  mv README-backup.md week01/
+   97  cp week1 week01
+   98  ls
+   99  mv week1 week01
+  100  ls
+  101  mv week2 week02
+  102  ls
+  103  mv README-backup.md week01/
+  104  ls
+  105  ls coding-cafe/week01
+  106  ls coding-cafe/week02
+  107  cd
+  108  ls coding-cafe/week01
+  109  cd week01
+  110  cd coding-cafe
+  111  cd week01
+  112  mv README-backup.md old-readme.md
+  113  ls
+  114  cd
+  115  ls
+  116  cd coding-cafe
+  117  ls
+  118  nano week02/notes.md
+  119  la
+  120  ls
+  121  ls week01
+  122  rm old-readme.md
+  123  rm week01/old-readme.md
+  124  ls week01
+  125  ls
+  126  ls week02
+  127  echo $PATH
+  128  cd
+  129  echo $path
+  130  echo $PATH
+  131  nano coding-cafe/week01/notes.txt
+  132  nano coding-cafe/week02/notes.txt
+  133  ls
+  134  cd coding cafe
+  135  cd coding-cafe
+  136  ls
+  137  cd week01
+  138  cd coding-cafe
+  139  cd..
+  140  cd ..
+  141  cd week02
+  142  cd
+  143  nano coding-cafe/week02/notes.ms
+  144  nano coding-cafe/week02/notes.md
+  145  which python3
+  146  nano coding-cafe/week02/notes.md
+  147  pyton3
+  148  cd ~/coding-cafe
+  149  python3 -m venv .venv
+  150  cd
+  151  apt install python3.14-venv
+  152  install python3
+  153  install python3.14-venv
+  154  python3 --version
+  155  sudo apt install python3-pip python3-venv -y
+  156  sudo apt update 
+  157  sudo apt upgrade -y
+  158  sudo apt install python3-pip python3-venv -y
+  159  pip3 --version
+  160  ty 
+  161  youre like the best <3
+  162  pwd
+  163  cd
+  164  ls
+  165  cd ~/coding-cafe
+  166  python3 -m venv .venv
+  167  ls
+  168  ls -a
+  169  source .venv/bin/activate
+  170  nano week02/notes.md
+  171  which python3
+  172  nano week02/notes.md
+  173  pip list
+  174  pip install requests
+  175  pip list
+  176  nano week02/notes
+  177  cd coding cafe
+  178  cd coding-cafe
+  179  nano week02/notes.md
+  180  deactivate
+  181  which python3
+  182  nano week02/notes.md
+  183  man ls
+  184  nano week02/notes.md
+  185  cd cod
+  186  history
+  187  python3
+  188  nano coding-cafe/week02/notes.md
+  189  history > week02/lab01-log.txt
+  190  cd coding-cafe
+  191  history > week02/lab01-log.txt
